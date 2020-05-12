@@ -1,0 +1,12 @@
+[
+    {"question": "who is the prime minister of india??", "options": ["narendra modi", "arwind kejriwal", "rahul gandhi", "manmohan singh"]},
+    {"question": "What sort of animal is Walt Disney's Dumbo??", "options": ["elephant", "kangaroo", "rabbit", "cow"]},
+    {"question": "Which nail grows fastest??", "options": ["middle", "index", "ring", "pinki"]},
+    {"question": "What did the crocodile swallow in Peter Pan?", "options": ["alarm clock", "cellphone", "camera", "underwear"]},
+    {"question": "Which river passes through Madrid?", "options": ["Manzanares", "Nile", "Ganga", "Yamuna"]},
+    {"question": "Where is the smallest bone in the body??", "options": ["ear", "nose", "legs", "thumb"]},
+    {"question": "What nationality was Chopin?", "options": ["Polish", "indian", "american", "russian"]},
+    {"question": "Who painted the Mona Lisa?", "options": ["Da vinci", "hitler", "narendra modi", "queen elizabeth"]},
+    {"question": "Where was Christopher Columbus born?", "options": ["genoa", "india", "mars", "earth"]},
+    {"question": "Who said E=mc2", "options": ["Einstein", "aditya tripathi", "narendra modi", "mother teresa"]},    
+]
